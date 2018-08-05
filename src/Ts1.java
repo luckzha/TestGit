@@ -1,0 +1,2 @@
+public class Ts1 {
+}

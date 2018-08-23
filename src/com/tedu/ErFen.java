@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * 二分查找、
+ * luckzha
+ */
 public class ErFen {
     public static void main(String[] args) {
         int[] a = suiji();

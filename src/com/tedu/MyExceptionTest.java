@@ -27,9 +27,7 @@ public class MyExceptionTest {
 }
 class MyException extends Exception{
     private String error;
-    public MyException(){
 
-    }
 
 
     public MyException(String  error){
@@ -37,6 +35,7 @@ class MyException extends Exception{
 
 
     }
+
 
 
 }
